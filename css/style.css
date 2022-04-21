@@ -1,0 +1,42 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #000000;
+
+}
+
+
+
+
+.quem {
+    background-color: rgb(144, 24, 173);
+    color: rgb(0, 0, 0);
+   
+   
+}
+
+.margin {
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parc {
+    background-color: #2d0797;
+    color: antiquewhite;
+
+}
+
+.serv {
+    background-color: rgb(83, 0, 104);
+    color: aliceblue;
+
+}
+
+.bg-footer {
+    background-color: rgb(75, 136, 216);
+    font-size: 30px;
+    font-family:  Arial, sans-serif;
+}
